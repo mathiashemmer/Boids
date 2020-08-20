@@ -1,0 +1,25 @@
+﻿  Boids.cpp
+E:\Workspace\VisualStudio\Boids\Boids\Boids.cpp(29,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Workspace\VisualStudio\Boids\Boids\Boids.cpp(29,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Workspace\VisualStudio\Boids\Boids\Boids.cpp(42,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Workspace\VisualStudio\Boids\Boids\Boids.cpp(42,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Workspace\VisualStudio\Boids\Boids\Boids.cpp(56,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Workspace\VisualStudio\Boids\Boids\Boids.cpp(56,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Workspace\VisualStudio\Boids\Boids\Boids.cpp(73,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Workspace\VisualStudio\Boids\Boids\Boids.cpp(93,61): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+E:\Workspace\VisualStudio\Boids\Boids\Boids.cpp(93,43): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+E:\Workspace\VisualStudio\Boids\Boids\Boids.cpp(98,55): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+E:\Workspace\VisualStudio\Boids\Boids\Boids.cpp(98,42): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+E:\Workspace\VisualStudio\Boids\Boids\Boids.cpp(104,123): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+E:\Workspace\VisualStudio\Boids\Boids\Boids.cpp(104,85): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+E:\Workspace\VisualStudio\Boids\Boids\Boids.cpp(104,64): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+E:\Workspace\VisualStudio\Boids\Boids\Boids.cpp(104,46): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+E:\Workspace\VisualStudio\Boids\Boids\Boids.cpp(105,65): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+E:\Workspace\VisualStudio\Boids\Boids\Boids.cpp(105,47): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+E:\Workspace\VisualStudio\Boids\Boids\Boids.cpp(106,117): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+E:\Workspace\VisualStudio\Boids\Boids\Boids.cpp(106,85): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+E:\Workspace\VisualStudio\Boids\Boids\Boids.cpp(106,64): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+E:\Workspace\VisualStudio\Boids\Boids\Boids.cpp(106,46): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+E:\Workspace\VisualStudio\Boids\Boids\Boids.cpp(129,45): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+E:\Workspace\VisualStudio\Boids\Boids\Boids.cpp(129,33): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  Boids.vcxproj -> E:\Workspace\VisualStudio\Boids\Debug\Boids.exe
