@@ -17,6 +17,14 @@ As partículas deverão se mover ao centro de massa do grupo ao seu redor
 
 Essas simples regras que poderão ter pesos diferentes no comportamento individual de cada partícula gera resultados orgânicos e complexos.
 
+### Controles:   
+A/S : Alinhamento   
+Z/X : Coesão   
+D/F : Separação   
+C/V : Interesse   
+
+Mouse : Aplica uma força em uma região (esquerdo: puxa, direito: empurra)   
+
 Recursos Externos:   
 Paper descrevendo -> http://www.cs.toronto.edu/~dt/siggraph97-course/cwr87/   
 Exemplo (Por [Ben Eater](https://www.youtube.com/c/BenEater/videos)) -> https://eater.net/boids
