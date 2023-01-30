@@ -2,7 +2,7 @@
 
 ## BOIDS são particulas programadas
 Para responder a três regras, que em conjunto simulam o comportamento de animais que andam em grupos.
-Dependendo dos parãmetros, o conjunto pode se comportar de forma distinta.
+Dependendo dos parâmetros, o conjunto se comporta de forma distinta.
 
 ### Regras
 
