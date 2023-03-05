@@ -14,6 +14,7 @@ public:
 	float cohesionDesire = 1;
 	float aligmentDesire = 1;
 	float interestDesire = 1;
+	// Not cool
 
 	bool intersted = false;
 
