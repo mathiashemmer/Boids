@@ -8,6 +8,7 @@ public:
 	unsigned int radius;
 	unsigned int awarenessRadius;
 	unsigned int maxForce;
+	unsigned int minForce;
 
 	float separationDesire = 1;
 	float cohesionDesire = 1;
